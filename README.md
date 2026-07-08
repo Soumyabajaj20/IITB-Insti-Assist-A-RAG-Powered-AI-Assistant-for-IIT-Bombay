@@ -8,7 +8,7 @@ it is a Retrieval-Augmented Generation (RAG) system, that answers questions abou
 
 ```bash
 python -m venv venv
-source venv/bin/activate        # on Windows: venv\Scripts\activate
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
